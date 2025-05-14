@@ -1,3 +1,3 @@
-EYE TRACKING SYSTEM
+# EYE TRACKING SYSTEM
 
 This project is a real-time Eye Tracking System developed using Python and OpenCV. It uses a webcam to detect and track the movement of the eyes by processing the frames with image processing techniques such as thresholding, contour detection, and region segmentation. The system accurately identifies the position of the pupils and tracks their direction, enabling applications in accessibility, human-computer interaction, gaming, and attention monitoring. The code is lightweight, easy to set up, and can be extended further for features like blink detection or gaze-based control systems
